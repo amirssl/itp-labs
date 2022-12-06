@@ -1,4 +1,5 @@
-# ITP Internet Technology and Protocol 1920
+# ITP Internet Technology and Protocol 2223
+Sem 1
 
 This text we have added during the lecture 3
 
